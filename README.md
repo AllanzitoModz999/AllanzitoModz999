@@ -21,5 +21,8 @@ Desde pequeno, eu adorava computadores e gostava de descobrir como funciona o mu
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 
+![Allan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu_usuario&show_icons=true&theme=radical)
+
+
 ![Logo](https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif)
 
