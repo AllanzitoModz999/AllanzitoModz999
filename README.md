@@ -15,5 +15,5 @@ Desde pequeno, eu adorava computadores e gostava de descobrir como funciona o mu
 Javascript, HTML, CSS, GDSCRIPT, etc...
 
 
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+![Logo](https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif)
 
