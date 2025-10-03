@@ -1,14 +1,8 @@
-
-# Título do Projeto
-
-Uma breve descrição sobre o que esse projeto faz e para quem ele é
+# Olá, eu sou o Allan! 👋
 
 
 ## 🚀 Sobre mim
-Eu sou uma pessoa desenvolvedora full-stack...
-
-
-# Olá, eu sou a Katherine! 👋
+Desde pequeno, eu adorava computadores e gostava de descobrir como funciona o mundo da tecnologia! 
 
 
 ## 🔗 Links
@@ -18,7 +12,7 @@ Eu sou uma pessoa desenvolvedora full-stack...
 
 
 ## 🛠 Habilidades
-Javascript, HTML, CSS...
+Javascript, HTML, CSS, GDSCRIPT, etc...
 
 
 ![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
