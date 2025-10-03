@@ -12,7 +12,12 @@ Desde pequeno, eu adorava computadores e gostava de descobrir como funciona o mu
 
 
 ## 🛠 Habilidades
-Javascript, HTML, CSS, GDSCRIPT, etc...
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![GDScript](https://img.shields.io/badge/GDScript-FF6600?style=for-the-badge&logo=godot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 
 ![Logo](https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif)
