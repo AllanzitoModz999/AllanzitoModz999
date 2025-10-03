@@ -25,20 +25,12 @@ Desde pequeno, eu adorava computadores e gostava de descobrir como funciona o mu
 
 ## 😁 Frases divertidas
 
-> "Código é poesia, mas às vezes é uma piada também!"  
-![Rindo](https://media.giphy.com/media/l3vR1ZJ7w1H7Nz8Ba/giphy.gif)
-
-> "Se não compilar, não é bug, é feature!"  
-![Bug divertido](https://media.giphy.com/media/3o6ZsY6kpQhVhHhN4Y/giphy.gif)
-
-> "Sempre testando coisas que talvez quebrem tudo… e ainda rio disso!"  
-![Quebrando tudo](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
-
-> "Programar é como magia: ninguém entende, mas todo mundo admira."  
-![Magia](https://media.giphy.com/media/26tOZ42Mg6pbTUPHW/giphy.gif)
-
-> "Café forte + código = dia perfeito ☕💻"  
-![Café e código](https://media.giphy.com/media/3ohhwF34cGDoFFhRfy/giphy.gif)
-
+> "Código é poesia, mas às vezes é uma piada também!" 😆  
+> "Se não compilar, não é bug, é feature!" 🐞  
+> "Sempre testando coisas que talvez quebrem tudo… e ainda rio disso!" 💥  
+> "Programar é como magia: ninguém entende, mas todo mundo admira." ✨  
+> "Café forte + código = dia perfeito ☕💻"
+>
+> 
 ![Logo](https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif)
 
