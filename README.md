@@ -30,7 +30,6 @@ Desde pequeno, eu adorava computadores e gostava de descobrir como funciona o mu
 > "Sempre testando coisas que talvez quebrem tudo… e ainda rio disso!" 💥  
 > "Programar é como magia: ninguém entende, mas todo mundo admira." ✨  
 > "Café forte + código = dia perfeito ☕💻"
->
-> 
+> "Se você for hackeado/a, não se preocupe, você não está sozinho/a." 👍😃
 ![Logo](https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif)
 
