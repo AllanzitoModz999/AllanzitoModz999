@@ -2,15 +2,14 @@
 
 
 ## 🚀 Sobre mim
-Desde pequeno, eu adorava computadores e gostava de descobrir como funciona o mundo da tecnologia! 
+Não quero falar sobre mim 👍
 
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
+
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/seu_twitter)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/allan.gab0?igsh=anIwdnFxYmZ0dm5v)
 
-(⚠️ MEU PORTFÓLIO AINDA ESTÁ EM DESENVOLVIMENTO ⚠️)
 
 ## 🛠 Habilidades
 
